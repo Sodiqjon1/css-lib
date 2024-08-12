@@ -1,4 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 :root{
+  --size-width: 1vw;
+  --size-height: 1vh;
   --wite-color: rgb(250, 249, 249);
   --black-color: rgb(15, 14, 14);
   --blue-color: rgb(32, 39, 222);
@@ -11,3 +18,21 @@
   font-family: ;
   src: url();
 } */
+.btn{
+  width: calc(var(--size-width)*8);
+  height: calc(var(--size-height)*5);
+  color: var(--wite-color);
+  background-color: var(--blue-color);
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+.btn:hover{
+  border: 2px solid var(--blue-color);
+  color: var(--blue-color);
+  background: none;
+}
+.card{
+
+}
