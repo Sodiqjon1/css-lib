@@ -1,3 +1,13 @@
 :root{
-  
+  --wite-color: rgb(250, 249, 249);
+  --black-color: rgb(15, 14, 14);
+  --blue-color: rgb(32, 39, 222);
+  --green-color: rgb(18, 183, 18);
+  --red-color: rgb(242, 40, 40);
+  --orange-color: rgb(234, 163, 31);
+  --gray-color: rgb(128, 120, 120);
 }
+/* @font-face {
+  font-family: ;
+  src: url();
+} */
