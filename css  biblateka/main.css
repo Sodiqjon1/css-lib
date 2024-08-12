@@ -29,10 +29,10 @@
   transition: 0.5s;
 }
 .btn:hover{
-  border: 2px solid var(--blue-color);
+  border: 1px solid var(--blue-color);
   color: var(--blue-color);
   background: none;
 }
-.card{
+/* .card{
 
-}
+} */
