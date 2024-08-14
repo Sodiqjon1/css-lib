@@ -33,6 +33,21 @@
   color: var(--blue-color);
   background: none;
 }
+.btn_bg{
+  width: calc(var(--size-width)*8);
+  height: calc(var(--size-height)*5);
+  color: var(--blue-color);
+  background: none;
+  text-align: center;
+  border: 1px solid var(--blue-color);
+  border-radius: 5px;
+  transition: 0.5s;
+}
+.btn_bg:hover{
+  border: none;
+  color: var(--wite-color);
+  background-color: var(--blue-color);
+}
 /* .card{
 
 } */
