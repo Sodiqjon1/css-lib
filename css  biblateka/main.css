@@ -18,6 +18,12 @@
   font-family: ;
   src: url();
 } */
+.btn_div{
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
 .btn{
   width: calc(var(--size-width)*8);
   height: calc(var(--size-height)*5);
