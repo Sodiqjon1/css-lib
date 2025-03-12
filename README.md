@@ -1,4 +1,4 @@
-# css-lib
+# CSS-LIBRARY
 ## Project started in 12.08.2024 
 
 ### First add element in 15.08.2024
